@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I’m Bhavika Khabya</h1>
 
-<!--
-**bhavikakhabya/bhavikakhabya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 B.Tech Student • 💻 Tech Enthusiast • 🎨 Designer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+- 🔧 learning **Python**
+- 📊 exploring **data + analytics**
+- 🎨 creating UI with **Canva**
+- 🧠 love problem solving & clean layouts
+
+---
+
+## 🧠 Skills & Tools
+
+**💻 Languages**
+- 🐍 Python  
+- ⚡  C Programming  
+
+**🛠️ Tools**
+- 🎨 Canva  
+- 📊 Excel  
+- 📱 AppSheet  
+- 🔗 Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+
+| 🚀 Project | 📄 Description | 🔧 Tech |
+|---|---|---|
+| 🧾 Revenue Calculator | Hotel-style UI, daily earnings | Python |
+| 🗺️ Travel Buddy | Weather, attractions, maps | AppSheet |
+| 🎨 Design Showcase | Banners, mockups, posters | Canva |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavikakhabya&show_icons=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bhavikakhabya&theme=dracula" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 **bhavikakhabya@gmail.com**  
+🔗 (LinkedIn https://www.linkedin.com/in/bhavika-khabya-9b678a37a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+🔗 (Instagram https://www.instagram.com/bhavik_.a?igsh=aDFwNHhhc3o1OHlm )
+---
+
+<p align="center">
+  💡 “Small steps add up. Keep building.” 💡 
+    💌 Let’s build something crazy + smart 💡🥰
+</p>
