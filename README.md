@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Bhavika Khabya</h1>
+<h1 align="center">🌸✨ Hi, its Bhavika Khabya 🌸✨</h1>
 
 <p align="center">
   🎓 B.Tech Student • 💻 Tech Enthusiast • 🎨 Designer
@@ -33,7 +33,7 @@
 | 🚀 Project | 📄 Description | 🔧 Tech |
 |---|---|---|
 | 🧾 Revenue Calculator | Hotel-style UI, daily earnings | Python |
-| 🗺️ Travel Buddy | Weather, attractions, maps | AppSheet |
+| 🗺️ Travel Buddy | Weather, attractions, maps | Google AI Studio |
 | 🎨 Design Showcase | Banners, mockups, posters | Canva |
 
 ---
@@ -60,5 +60,5 @@
 
 <p align="center">
   💡 Small steps add up. Keep building. 💡 
-  💌 Let’s build something crazy + smart 💡🥰
+  💌 Let’s build something innovative and smart 💡🥰
 </p>
