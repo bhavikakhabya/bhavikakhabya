@@ -60,6 +60,5 @@
 
 <p align="center">
   💡 Small steps add up. Keep building. 💡 
-  
   💌 Let’s build something crazy + smart 💡🥰
 </p>
