@@ -24,7 +24,6 @@
 - 🎨 Canva  
 - 📊 Excel  
 - 📱 AppSheet  
-- 🔗 Git & GitHub  
 
 ---
 
